@@ -145,8 +145,11 @@ li {
     font-size: 30px;
 }
 
-header nav ul li a {
+a {
     text-decoration: none;
+}
+
+header nav ul li a {
     color: black;
     font-family: "Inter-regular";
 }
